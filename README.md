@@ -1,27 +1,58 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Calculator Layout Boss Challenge
+# Calculator Layout 
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+This "Calculator" application is a simple one screen design of calculator screen i have made this single screen design application just to practice AutoLayout concepts. This application supports all Screen Sizes and Orientation in iphone and iPad.
 
-## Portrait
+## What i have learnt while building "Rolling Dice (AutoLayout Version)" application?
 
-![Portrait](Documentation/Portrait.png)
+--> How to add constraints and understand how auto layout works.
 
-## Landscape
-![Landscape](Documentation/Landscape.png)
+--> How to Pin and Align UI elements.
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
+--> How to create containers to configure advanced layouts.
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
+--> How to debug auto layout errors.
 
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
+--> I have learned the pre-requisites to automatic layout.
 
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
+--> How to use stack views to easily layout your UI.
 
-If you get stuck, check out the solution video in the next lesson.
+## Screenshots
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+----> iPhone 13 Pro Max
+
+
+
+
+![iPhone 13 Pro Max Potrait](images/iPhone_13PMP.png) 
+
+
+----> iPhone 13 Pro Max
+
+
+
+
+![iPhone 13 Pro Max Landscape](images/iPhone_13PML.png)
+
+
+
+
+----> iPad Pro(5th generation)
+
+
+
+
+![iPad Pro Potrait](images/iPadProP.png) 
+
+
+
+----> iPad Pro(5th generation)
+
+
+
+
+![iPad Pro Landscape](images/iPadProL.png) 
+
+
 
