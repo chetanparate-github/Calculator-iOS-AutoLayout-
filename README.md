@@ -3,7 +3,7 @@
 
 This "Calculator" application is a simple one screen design of calculator screen i have made this single screen design application just to practice AutoLayout concepts. This application supports all Screen Sizes and Orientation in iphone and iPad.
 
-## What i have learnt while building "Rolling Dice (AutoLayout Version)" application?
+## What i have learnt while building "Calculator (AutoLayout Version)" application?
 
 --> How to add constraints and understand how auto layout works.
 
